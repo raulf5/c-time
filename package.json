@@ -1,0 +1,17 @@
+{
+  "name": "@rglepe/current-time",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "repository": {
+    "url": "https://github.com/raulf5/current-time.git"
+  },
+  "author": "rglepe",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0"
+}
